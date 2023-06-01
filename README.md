@@ -1,6 +1,7 @@
 # 19CS406-EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
 
 DATE : 26.05.23
+
 AIM :
 To write a python program to perform stop and wait protocol
 
