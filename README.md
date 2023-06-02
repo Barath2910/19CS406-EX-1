@@ -1,12 +1,12 @@
 # 19CS406-EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
 
-DATE : 26.05.23
+## DATE : 6.03.23
 
-AIM :
+# AIM :
 
 To write a python program to perform stop and wait protocol
 
-ALGORITHM :
+# ALGORITHM :
 
 1 Start the program.
 
@@ -19,10 +19,6 @@ ALGORITHM :
 5.If your frames reach the server it will send ACK signal to client otherwise it will sendNACK signal to client.
 
 6.Stop the program
-
-Developed By : BARATH KUMAR J
-
-Reg No : 212221230012
 
 # CLIENT PROGRAM :
 ```
